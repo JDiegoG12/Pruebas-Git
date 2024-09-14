@@ -9,6 +9,9 @@ namespace PruebasGit.Control
 {
     internal class prueba
     {
-
+        static void Main(string[] args)
+        {
+            
+        }
     }
 }
